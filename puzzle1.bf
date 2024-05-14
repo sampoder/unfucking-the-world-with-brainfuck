@@ -4,4 +4,4 @@ Input for starter: YRTSAP
 
 ,>,>,>,>,>,
 
-Execute your code using https://minond.xyz/brainfuck/.
+Execute your code using minond (dot) xyz (slash) brainfuck
